@@ -1,4 +1,18 @@
 [{
+    "id": 10,
+    "name": "Mac and Cheese",
+    "description": "Our special recipe of blended cheeses, vegetables and mushrooms",
+    "price": 16.00,
+    "type": 1
+},
+{
+    "id": 11,
+    "name": "Ravioli",
+    "description": "Our special ravioli in a brown butter sauce with nuts and cheese",
+    "price": 18.00,
+    "type": 1
+},
+    {
     "id": 0,
     "name": "Margherita",
     "description": "The classic pizza of Buffalo Mozzarella, tomatoes, and basil on a classic crust.",
